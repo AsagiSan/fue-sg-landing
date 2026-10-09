@@ -1,0 +1,6 @@
+.DS_Store
+assets 2/
+research/pwinstall.log
+*.pyc
+__pycache__/
+.venv/

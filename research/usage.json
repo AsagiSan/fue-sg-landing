@@ -1,0 +1,787 @@
+{
+ "logo_icon": {
+  "used": [
+   "Header logo mark",
+   "Favicon / apple-touch-icon"
+  ],
+  "out": "logo-icon"
+ },
+ "logo_wide": {
+  "used": [
+   "Footer logo"
+  ],
+  "out": "logo-wide"
+ },
+ "logo_schema": {
+  "used": [
+   "JSON-LD logo"
+  ],
+  "out": "logo-full"
+ },
+ "wa_icon": {
+  "used": [
+   "FAQ \"Ask on WhatsApp\" button icon",
+   "Header WhatsApp button icon",
+   "Mobile sticky CTA bar icon"
+  ],
+  "out": "whatsapp-icon"
+ },
+ "wa_icon2": {
+  "used": [
+   "CTA form \"Send on WhatsApp\" button"
+  ],
+  "out": "whatsapp-icon-2"
+ },
+ "banner_sg": {
+  "used": [
+   "Promotion card (desktop source)"
+  ],
+  "out": "promo-banner-wide"
+ },
+ "banner_3": {
+  "used": [
+   "Promotion card (tablet source)"
+  ],
+  "out": "promo-banner-mid"
+ },
+ "banner_free": {
+  "used": [
+   "Promotion card (mobile source)"
+  ],
+  "out": "promo-banner-square"
+ },
+ "smart_choice": {
+  "used": [
+   "Malaysia vs Singapore section (original chart, opens full size)"
+  ],
+  "out": "smart-choice-malaysia-vs-singapore"
+ },
+ "og_benefits": {
+  "used": [
+   "Stories carousel photo card",
+   "og:image / twitter:image meta tags"
+  ],
+  "out": "benefits-of-fue-malaysia"
+ },
+ "happy_patient": {
+  "used": [
+   "Stories carousel photo card",
+   "JSON-LD image"
+  ],
+  "out": "after-procedure-happy-patient"
+ },
+ "v_journey": {
+  "used": [
+   "Video modal trigger in hero side panel (thumbnail shown in Stories)",
+   "Stories carousel video card"
+  ],
+  "out": "video-journey-of-hair-restoration"
+ },
+ "v_cole": {
+  "used": [
+   "Partner video thumbnail (team window rail)"
+  ],
+  "out": "video-dr-john-cole"
+ },
+ "v_umar": {
+  "used": [
+   "Partner video thumbnail (team window rail)"
+  ],
+  "out": "video-dr-sanusi-umar"
+ },
+ "v_aliff": {
+  "used": [
+   "Stories carousel video card"
+  ],
+  "out": "video-aliff-aziz"
+ },
+ "v_fadlan": {
+  "used": [
+   "Stories carousel video card"
+  ],
+  "out": "video-fadlan-hazim"
+ },
+ "v_que": {
+  "used": [
+   "Stories carousel video card"
+  ],
+  "out": "video-que-haidar"
+ },
+ "v_doneright": {
+  "used": [
+   "Stories carousel video card"
+  ],
+  "out": "video-done-right-in-malaysia"
+ },
+ "v_martin": {
+  "used": [
+   "Stories carousel video card"
+  ],
+  "out": "video-mr-martin-australia"
+ },
+ "step1": {
+  "used": [
+   "Step 01 panel illustration (below checklist)"
+  ],
+  "out": "step-1-donor-area"
+ },
+ "step2": {
+  "used": [
+   "Step 02 mockup illustration (below table)"
+  ],
+  "out": "step-2-removing-follicles"
+ },
+ "step3": {
+  "used": [
+   "Step 03 panel illustration (below checklist)"
+  ],
+  "out": "step-3-placing-units"
+ },
+ "step4": {
+  "used": [
+   "Step 04 panel illustration (below timeline)"
+  ],
+  "out": "step-4-healing-growth"
+ },
+ "ic_frame": {
+  "used": [
+   "Advantages tile icon"
+  ],
+  "out": "icon-head"
+ },
+ "ic_bosley": {
+  "used": [
+   "Advantages tile icon"
+  ],
+  "out": "icon-follicles"
+ },
+ "ic_face": {
+  "used": [
+   "Advantages tile icon"
+  ],
+  "out": "icon-face-hair"
+ },
+ "ic_device": {
+  "used": [
+   "Advantages tile icon"
+  ],
+  "out": "icon-device"
+ },
+ "ic_therapy": {
+  "used": [
+   "Advantages tile icon"
+  ],
+  "out": "icon-therapy"
+ },
+ "ic_inject": {
+  "used": [
+   "Advantages tile icon"
+  ],
+  "out": "icon-anaesthesia"
+ },
+ "tl_before": {
+  "used": [
+   "Hero photo grid (static)",
+   "Step 01 mockup window",
+   "Patient Results \u2013 Timeline row"
+  ],
+  "out": "timeline-before-hair-transplant"
+ },
+ "tl_line": {
+  "used": [
+   "Hero photo grid (static)",
+   "Step 01 mockup window",
+   "Patient Results \u2013 Timeline row"
+  ],
+  "out": "timeline-personalized-hair-line"
+ },
+ "tl_donor": {
+  "used": [
+   "Hero photo grid (static)",
+   "Step 01 mockup window",
+   "Patient Results \u2013 Timeline row"
+  ],
+  "out": "timeline-drawing-proper-donor-area"
+ },
+ "tl_after": {
+  "used": [
+   "Hero photo grid (static)",
+   "Step 03 results photo grid (uniform cropped frame)",
+   "Step 03 panel photo (below checklist)",
+   "Step 04 timeline grid",
+   "Patient Results \u2013 Timeline row"
+  ],
+  "out": "timeline-after-ht-procedure"
+ },
+ "tl_afterdonor": {
+  "used": [
+   "Hero photo grid (static)",
+   "Step 02 panel photo (below checklist)",
+   "Step 03 results photo grid (uniform cropped frame)",
+   "Patient Results \u2013 Timeline row"
+  ],
+  "out": "timeline-after-ht-procedure-donor-area"
+ },
+ "tl_4m": {
+  "used": [
+   "Hero photo grid (static)",
+   "Step 03 results photo grid (uniform cropped frame)",
+   "Step 04 timeline grid",
+   "Patient Results \u2013 Timeline row"
+  ],
+  "out": "timeline-after-4-month-ht-procedure"
+ },
+ "tl_5m": {
+  "used": [
+   "Hero photo grid (static)",
+   "Step 03 results photo grid (uniform cropped frame)",
+   "Step 04 timeline grid",
+   "Patient Results \u2013 Timeline row"
+  ],
+  "out": "timeline-after-5-month-ht-procedure"
+ },
+ "tl_10m": {
+  "used": [
+   "Hero photo grid (static)",
+   "Step 03 results photo grid (uniform cropped frame)",
+   "Step 04 timeline grid",
+   "Patient Results \u2013 Timeline row"
+  ],
+  "out": "timeline-after-10-month-ht-procedure"
+ },
+ "r2200b": {
+  "used": [
+   "Patient results gallery"
+  ],
+  "out": "result-2200-grafts-before"
+ },
+ "r2200a": {
+  "used": [
+   "Step 03 results photo grid (uniform cropped frame)",
+   "Patient results gallery"
+  ],
+  "out": "result-2200-grafts-after-10-months"
+ },
+ "r2000b": {
+  "used": [
+   "Patient results gallery"
+  ],
+  "out": "result-2000-grafts-before"
+ },
+ "r2000a": {
+  "used": [
+   "Step 03 results photo grid (uniform cropped frame)",
+   "Patient results gallery"
+  ],
+  "out": "result-2000-grafts-after-11-months"
+ },
+ "r2100b": {
+  "used": [
+   "Step 04 timeline grid",
+   "Patient results gallery"
+  ],
+  "out": "result-2100-grafts-before"
+ },
+ "r2100b2": {
+  "used": [
+   "Patient results gallery (2,100 grafts, front view)"
+  ],
+  "out": "result-2100-grafts-before-alt"
+ },
+ "r2100a": {
+  "used": [
+   "Step 04 timeline grid",
+   "Patient results gallery"
+  ],
+  "out": "result-2100-grafts-after-7-months"
+ },
+ "r3700b": {
+  "used": [
+   "Patient results gallery"
+  ],
+  "out": "result-3700-grafts-before"
+ },
+ "r3700a": {
+  "used": [
+   "Step 03 results photo grid (uniform cropped frame)",
+   "Patient results gallery"
+  ],
+  "out": "result-3700-grafts-after-7-months"
+ },
+ "rbeard": {
+  "used": [
+   "Patient results gallery (beard)"
+  ],
+  "out": "result-beard-1200-grafts-8-months"
+ },
+ "w1b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-01-before"
+ },
+ "w1a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-01-after"
+ },
+ "w2b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-02-before"
+ },
+ "w2a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-02-after"
+ },
+ "w3b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-03-before"
+ },
+ "w3a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-03-after"
+ },
+ "w4b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-04-before"
+ },
+ "w4a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-04-after"
+ },
+ "w5b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-05-before"
+ },
+ "w5a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-05-after"
+ },
+ "w6b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-06-before"
+ },
+ "w6a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-06-after"
+ },
+ "w7b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-07-before"
+ },
+ "w7a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-07-after"
+ },
+ "w8b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-08-before"
+ },
+ "w8a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-08-after"
+ },
+ "w9b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-09-before"
+ },
+ "w9a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-09-after"
+ },
+ "w10b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-10-before"
+ },
+ "w10a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-10-after"
+ },
+ "w11b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-11-before"
+ },
+ "w11a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-11-after"
+ },
+ "w12b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-12-before"
+ },
+ "w12a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-12-after"
+ },
+ "w13b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-13-before"
+ },
+ "w13a": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-13-after"
+ },
+ "w14b": {
+  "used": [
+   "Patient results wall (Show all results)"
+  ],
+  "out": "result-14-before"
+ },
+ "d_inder": {
+  "used": [
+   "Team card photo"
+  ],
+  "out": "dr-inder"
+ },
+ "d_inder2": {
+  "used": [
+   "Hero side panel (doctor card)",
+   "Team card (second photo, shows on hover)"
+  ],
+  "out": "dr-inder-scrubs"
+ },
+ "d_inder_cred": {
+  "used": [
+   "Dr Inder card credentials strip"
+  ],
+  "out": "dr-inder-credentials"
+ },
+ "d_lew": {
+  "used": [
+   "Team card photo"
+  ],
+  "out": "dr-lew-kar-min"
+ },
+ "d_ashrul": {
+  "used": [
+   "Team card photo"
+  ],
+  "out": "dr-ashrul-ikhmal"
+ },
+ "d_ashrul2": {
+  "used": [
+   "Team card (second photo, shows on hover)"
+  ],
+  "out": "dr-ashrul-ikhmal-2"
+ },
+ "d_kula": {
+  "used": [
+   "Team card photo"
+  ],
+  "out": "dr-kuladeva-retnam"
+ },
+ "p_mwamba": {
+  "used": [
+   "Partners list (team window rail)"
+  ],
+  "out": "partner-dr-patrick-mwamba"
+ },
+ "p_cole": {
+  "used": [
+   "Partners list (team window rail)"
+  ],
+  "out": "partner-dr-john-cole"
+ },
+ "p_umar": {
+  "used": [
+   "Partners list (team window rail)"
+  ],
+  "out": "partner-dr-sanusi-umar"
+ },
+ "p_bisanga": {
+  "used": [
+   "Partners list (team window rail)"
+  ],
+  "out": "partner-dr-christian-bisanga"
+ },
+ "c_exam": {
+  "used": [
+   "CTA photo trio"
+  ],
+  "out": "dr-inder-examining-hair"
+ },
+ "c_donor": {
+  "used": [
+   "Step 02 panel photo (below checklist)",
+   "CTA photo trio"
+  ],
+  "out": "dr-inder-harvesting-donor"
+ },
+ "c_line": {
+  "used": [
+   "CTA photo trio"
+  ],
+  "out": "dr-inder-drawing-hairline"
+ },
+ "a_gh2020": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "award-gh2020"
+ },
+ "a_gh2021": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "award-gh2021"
+ },
+ "a_gh2022": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "award-gh2022"
+ },
+ "a_gh2023": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "award-gh2023"
+ },
+ "a_fishrs": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "award-fishrs"
+ },
+ "a_ghp": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "award-ghp"
+ },
+ "a_niaga": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "award-niaga"
+ },
+ "a_soba": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "award-soba"
+ },
+ "a_abhrs": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "award-abhrs"
+ },
+ "rb_msam": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "recognized-msam"
+ },
+ "rb_hilton": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "recognized-hilton"
+ },
+ "rb_fueeu": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "recognized-fueeu"
+ },
+ "rb_bw": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "recognized-bw"
+ },
+ "rb_wc": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "recognized-wc"
+ },
+ "rb_kdi": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "recognized-kdi"
+ },
+ "rb_soc": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "recognized-soc"
+ },
+ "rb_sheraton": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "recognized-sheraton"
+ },
+ "rb_md": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "recognized-md"
+ },
+ "rb_erufu": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "recognized-erufu"
+ },
+ "rb_aaam": {
+  "used": [
+   "Logo grid (awards & recognised-by), static, original colours"
+  ],
+  "out": "recognized-aaam"
+ },
+ "aw1": {
+  "used": [
+   "Awards carousel (team window)"
+  ],
+  "out": "award-photo-1"
+ },
+ "aw2": {
+  "used": [
+   "Awards carousel (team window)"
+  ],
+  "out": "award-photo-2"
+ },
+ "aw3": {
+  "used": [
+   "Awards carousel (team window)"
+  ],
+  "out": "award-photo-3"
+ },
+ "aw4": {
+  "used": [
+   "Awards carousel (team window)"
+  ],
+  "out": "award-photo-4"
+ },
+ "aw5": {
+  "used": [
+   "Awards carousel (team window)"
+  ],
+  "out": "award-photo-5"
+ },
+ "aw6": {
+  "used": [
+   "Awards carousel (team window)"
+  ],
+  "out": "award-photo-6"
+ },
+ "aw7": {
+  "used": [
+   "Awards carousel (team window)"
+  ],
+  "out": "award-photo-7"
+ },
+ "aw8": {
+  "used": [
+   "Awards carousel (team window)"
+  ],
+  "out": "award-photo-8"
+ },
+ "aw9": {
+  "used": [
+   "Awards carousel (team window)"
+  ],
+  "out": "award-photo-9"
+ },
+ "on_the_day": {
+  "used": [
+   "Bento \"On the day of your procedure\" tile"
+  ],
+  "out": "on-the-day-of-procedure"
+ },
+ "s_crown": {
+  "used": [
+   "Services tile list"
+  ],
+  "out": "service-crown-hair-transplant-1"
+ },
+ "s_mshape": {
+  "used": [
+   "Services tile list"
+  ],
+  "out": "service-mshape-hair-transplant-1"
+ },
+ "s_receding": {
+  "used": [
+   "Services tile list"
+  ],
+  "out": "service-haihairline-hair-transplant-1"
+ },
+ "s_repair": {
+  "used": [
+   "Services tile list"
+  ],
+  "out": "service-rrepair-hair-transplant-1"
+ },
+ "s_beard": {
+  "used": [
+   "Services tile list"
+  ],
+  "out": "service-beard-transplant"
+ },
+ "s_moustache": {
+  "used": [
+   "Services tile list"
+  ],
+  "out": "service-moustache-transplant"
+ },
+ "s_eyebrow": {
+  "used": [
+   "Services tile list"
+  ],
+  "out": "service-eyebrow-hair-transplant"
+ }
+}
